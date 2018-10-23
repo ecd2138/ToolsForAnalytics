@@ -1,0 +1,3 @@
+# do substactiionone
+
+echo $(($1 - $2))
